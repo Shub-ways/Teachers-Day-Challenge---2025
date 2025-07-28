@@ -33,7 +33,7 @@
 <h2>🎯 My Track</h2>
 
 <div align="center">
-  <h3>🎮 Beginner's Track</h3>
+  <h3>🎮 Advanced Track</h3>
   <p>Solving one problem every day to build a strong foundation in programming and problem-solving</p>
 </div>
 
@@ -61,26 +61,6 @@
   <li>📱 <strong>Social Sharing:</strong> Weekly/daily progress updates on LinkedIn (optional)</li>
   <li>🏷️ <strong>Tags:</strong> <code>#TeachersDayChallenge</code> <code>#VITBhopal</code> <code>#DrGViswanathan</code></li>
 </ul>
-
-<hr>
-
-<h2>📂 Repository Structure</h2>
-
-```
-├── Day-01/
-│   ├── problem.md
-│   ├── solution.py
-│   └── explanation.md
-├── Day-02/
-│   ├── problem.md
-│   ├── solution.py
-│   └── explanation.md
-...
-├── Day-43/
-└── README.md
-```
-
-<hr>
 
 <h2>🎯 Goals</h2>
 
@@ -114,42 +94,6 @@
     </tr>
   </table>
 </div>
-
-<hr>
-
-<h2>📈 Weekly Updates</h2>
-
-<details>
-<summary><strong>Week 1 (July 25 - July 31)</strong></summary>
-<p>Coming soon...</p>
-</details>
-
-<details>
-<summary><strong>Week 2 (August 1 - August 7)</strong></summary>
-<p>Coming soon...</p>
-</details>
-
-<details>
-<summary><strong>Week 3 (August 8 - August 14)</strong></summary>
-<p>Coming soon...</p>
-</details>
-
-<details>
-<summary><strong>Week 4 (August 15 - August 21)</strong></summary>
-<p>Coming soon...</p>
-</details>
-
-<details>
-<summary><strong>Week 5 (August 22 - August 28)</strong></summary>
-<p>Coming soon...</p>
-</details>
-
-<details>
-<summary><strong>Week 6 (August 29 - September 5)</strong></summary>
-<p>Coming soon...</p>
-</details>
-
-<hr>
 
 <h2>🤝 Connect & Follow</h2>
 
@@ -185,11 +129,3 @@
 </div>
 
 <hr>
-
-<div align="center">
-  <p>
-    <img src="https://img.shields.io/github/license/yourusername/Teachers-Day-Challenge-2025?style=for-the-badge" alt="License">
-    <img src="https://img.shields.io/github/stars/yourusername/Teachers-Day-Challenge-2025?style=for-the-badge" alt="Stars">
-    <img src="https://img.shields.io/github/forks/yourusername/Teachers-Day-Challenge-2025?style=for-the-badge" alt="Forks">
-  </p>
-</div>
