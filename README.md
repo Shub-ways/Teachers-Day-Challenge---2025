@@ -82,15 +82,10 @@
 <h2>🏆 Progress Tracker</h2>
 
 <div align="center">
-  <img src="https://progress-bar.dev/0/?title=Days%20Completed&width=400&color=green" alt="Progress Bar">
-  
-  <br><br>
-  
   <table>
     <tr>
-      <td align="center"><strong>Current Streak</strong><br>0 days</td>
-      <td align="center"><strong>Problems Solved</strong><br>0/43</td>
-      <td align="center"><strong>Success Rate</strong><br>0%</td>
+      <td align="center"><strong>Current Streak</strong><br>3 days</td>
+      <td align="center"><strong>Problems Solved</strong><br>6/86</td>
     </tr>
   </table>
 </div>
